@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <Jumbotron fluid>
       <Container>
-        <div className="display-3">Thinkful Student + Software Engineer</div>
+        <div className="display-3">Software Engineer</div>
         <p>
           I am new to the Raleigh, NC, area. While I spend most of my time on
           the computer learning about development, I like to get outside and
